@@ -36,7 +36,7 @@ This application was made with the powerful combination of ReactJS and Typescrip
 # Getting Started
 To get started, clone the project using the command
 ```
-git clone
+git clone git@github.com:atiladefreitas/Medical-Test.git
 ``` 
 or just download the zip folder from repositories, run on terminal the following command line:
 
